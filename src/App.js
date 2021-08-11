@@ -4,8 +4,8 @@ import Header from './components/Header/Header';
 import Courses from './components/Courses/Courses';
 import Pricing from './components/Pricing/Pricing';
 import Hero from './components/Hero/Hero';
-import Contact from './Contact/Contact';
 import Footer from './components/Footer/Footer';
+import Contact from './components/Contact/Contact';
 function App() {
   return (
     <div>
