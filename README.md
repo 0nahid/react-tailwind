@@ -1,6 +1,6 @@
 # Getting Started with react tailwindcss
 
-## <a href="https://ndemy.netlify.app> Live Link </a>
+# <a href="https://ndemy.netlify.app"> Live Link </a>
 
 ## Available Scripts
 
